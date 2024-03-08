@@ -1,0 +1,23 @@
+(1):Introduction of ER Model
+ The Entity Relational Model is a model for identifying entities to be represented in the database and representation of how those entities are related.
+ The ER data model specifies enterprise schema that represents the overall logical structure of a database graphically. 
+
+The Entity Relationship Diagram explains the relationship among the entities present in the database. ER models are used to model real-world objects like a person, a car, or a company and the relation between these real-world objects. In short, the ER Diagram is the structural format of the database. 
+
+(2):Why Use ER Diagrams In DBMS?
+
+ER diagrams are used to represent the E-R model in a database, which makes them easy to convert into relations (tables).
+ER diagrams provide the purpose of real-world modeling of objects which makes them intently useful.
+ER diagrams require no technical knowledge and no hardware support.
+These diagrams are very easy to understand and easy to create even for a naive user. 
+It gives a standard solution for visualizing the data logically.
+
+(3):Symbols Used in ER Model
+ER Model is used to model the logical view of the system from a data perspective which consists of these symbols:
+
+Rectangles: Rectangles represent Entities in the ER Model.
+Ellipses: Ellipses represent Attributes in the ER Model.
+Diamond: Diamonds represent Relationships among Entities.
+Lines: Lines represent attributes to entities and entity sets with other relationship types.
+Double Ellipse: Double Ellipses represent Multi-Valued Attributes.
+Double Rectangle: Double Rectangle represents a Weak Entity.
