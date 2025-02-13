@@ -14,7 +14,7 @@ You've most likely worked with spreadsheet systems like Excel or Google Sheets. 
 
 Each table has different **columns** which could contain different types of data.
 
-For example, if you have a todo list app, you would have a database, and in your database, you would have different tables storing different information like:
+For example, if you have a todo list app, you would have a database, and in your database, you would have different tabl,es storing different information like:
 
 * Users - In the users table, you would have some data for your users like: `username`, `name`, and `active`, for example.
 * Tasks - The tasks table would store all of the tasks that you are planning to do. The columns of the tasks table would be for example, `task_name`, `status`, `due_date` and `priority`.
