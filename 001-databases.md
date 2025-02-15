@@ -3,7 +3,7 @@
 Before we dive deep into SQL, let's quickly define what a database is.
 
 The definition of databases from Wikipedia is:
-
+kk
 > A database is an organized collection of data, generally stored and accessed electronically from a computer system.
 
 In other words, a database is a collection of data stored and structured in different database tables.
