@@ -1,6 +1,6 @@
 # Basic Syntax
 
-In this chapter, we will go over the basic SQL syntax.
+In this chapter, we will go over the basic SQL syntax
 
 SQL statements are basically the 'commands' that you run against a specific database. Through the SQL statements, you are telling MySQL what you want it to do, for example, if you wanted to get the `username` of all of your users stored in the `users` table, you would run the following SQL statement:
 
