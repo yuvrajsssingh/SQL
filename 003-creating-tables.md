@@ -1,6 +1,6 @@
 # Tables
 
-Before we get started with SQL, let's learn how to create tables and columns.qdad
+Before we get started with SQL, let's learn how to create tables and columns.qdadvhvh
 
 As an example, we are going to create a `users` table with the following columns:
 
