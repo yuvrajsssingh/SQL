@@ -1,6 +1,6 @@
 # Databases
 
-Before we dive deep into SQL, let's quickly define what a database is.
+Before we dive deep into SQL, let's quickly define what a database is.nk
 
 The definition of databases from Wikipedia is:
 kk
